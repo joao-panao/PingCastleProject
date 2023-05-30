@@ -1,0 +1,10 @@
+Python Libraries:
+
+pip install requests
+pip install pandas
+pip install openpyxl
+pip install chardet
+pip install lxml
+pip install xlsxwriter
+pip install html5lib
+pip install cairosvg
